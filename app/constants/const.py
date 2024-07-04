@@ -28,7 +28,7 @@ COLOR = {
 
 # diretorios
 DIR_BACKGROUND = './background'
-DIR_UI = './UI'
+DIR_UI = './ui'
 DIR_CHARACTER_IMG = './personagens/imagens'
 DIR_MUSIC = './music'
 DIR_SOUND = './sound'
